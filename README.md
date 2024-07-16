@@ -1,6 +1,6 @@
 # Projeto Ancora
 
-Descrição curta do projeto.
+Projeto proposto pela FIAP com parceria da Rede Âncora. Projeto desevolvido em formato de totem.
 
 ## Sumário
 
@@ -13,7 +13,7 @@ Descrição curta do projeto.
 
 ## Introdução
 
-Breve introdução sobre o que é o projeto e seus principais objetivos.
+Na contrução do projeto nos dirigimos pela UX e UI, utilizando como referência totens de grandes franquias e adaptando para realidade da Rede Âncora.
 
 ## Instalação
 
